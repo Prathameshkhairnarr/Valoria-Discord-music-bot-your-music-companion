@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/valoria-logo.png" alt="Valoria pink V logo" width="96" height="96">
+<img src="valoria-logo.png" alt="Valoria pink V logo" width="96" height="96">
 
 # VALORIA
 
@@ -10,7 +10,7 @@ A Discord music companion for shared listening, personal playlists and a room th
 
 [Privacy Policy](PRIVACY.md) · [Terms of Service](TERMS.md) · [Support](SUPPORT.md) · [Security](SECURITY.md)
 
-<img src="assets/valoria-banner.gif" alt="Animated Valoria banner with a pink V, soft light accents and decorative moving music bars" width="100%">
+<img src="valoria-banner.gif" alt="Animated Valoria banner with a pink V, soft light accents and decorative moving music bars" width="100%">
 
 **MUSIC & PLAYLISTS** &nbsp; / &nbsp; **MOOD-BASED AUTOPLAY** &nbsp; / &nbsp; **SERVER PREMIUM APPEARANCE**
 
@@ -108,7 +108,7 @@ Report sensitive vulnerabilities privately using the [Security Policy](SECURITY.
 
 <div align="center">
 
-<img src="assets/valoria-logo.png" alt="Valoria" width="40" height="40">
+<img src="valoria-logo.png" alt="Valoria" width="40" height="40">
 
 **VALORIA — made for the music you share.**
 
@@ -119,3 +119,4 @@ Operated by **Vicky Khairnar** · [Contact](mailto:devsvicky0@gmail.com)
 The animated banner is decorative branding, not a live audio visualizer.
 
 </div>
+
