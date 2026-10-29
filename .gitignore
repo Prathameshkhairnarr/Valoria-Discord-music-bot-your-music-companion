@@ -1,0 +1,13 @@
+*
+!README.md
+!PRIVACY.md
+!TERMS.md
+!SUPPORT.md
+!SECURITY.md
+!NOTICE.md
+!.gitignore
+
+!assets/
+assets/*
+!assets/valoria-logo.png
+!assets/valoria-banner.gif
